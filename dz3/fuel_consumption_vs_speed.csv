@@ -1,0 +1,14 @@
+speed,trip_time,engine_type,fuel_consumption
+20,10,petrol,9.2
+30,15,petrol,7.8
+40,18,diesel,6.5
+50,20,diesel,6.0
+60,25,petrol,6.8
+70,30,diesel,6.2
+80,35,petrol,7.1
+90,40,diesel,7.5
+100,45,petrol,8.3
+110,50,diesel,9.0
+120,55,petrol,10.2
+130,60,diesel,11.5
+140,65,petrol,12.8
